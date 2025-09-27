@@ -1,68 +1,68 @@
 window.PorfolioConfig = {
-  name: 'John Doe',
-  jobTitle: 'Full-stack Web Developer',
-  jobDescription: 'Sit quis in tempor quis. Nisi ex exercitation in irure. Reprehenderit sint aliqua et dolore enim laboris dolore exercitation magna aliqua ex ad.',
+  name: 'Pixel Palace',
+  jobTitle: 'Retro Arcade & Bar',
+  jobDescription: 'Step back in time and experience the golden age of gaming. Classic arcade games, craft beer, and good times await.',
   skills: [
     {
-      name: 'JavaScript',
-      description: 'Reprehenderit mollit id ad veniam.'
+      name: 'Pac-Man',
+      description: 'Navigate the maze, eat the dots, and avoid the ghosts in this timeless classic.'
     },
     {
-      name: 'HTML',
-      description: 'Fugiat veniam esse consequat quis cillum elit consequat Lorem pariatur ipsum veniam irure incididunt non.'
+      name: 'Donkey Kong',
+      description: 'Climb the girders and rescue Pauline from the clutches of the mighty Donkey Kong.'
     },
     {
-      name: 'CSS',
-      description: 'Elit tempor mollit consectetur laborum nostrud qui in.'
+      name: 'Galaga',
+      description: 'Defend against waves of alien insects in this iconic fixed shooter.'
     }
   ],
   works: [
     {
-      name: 'Vue Stripe Checkout',
-      link: 'https://jofftiquez.github.io/vue-stripe-checkout',
-      description: 'Mollit dolor tempor adipisicing non pariatur in tempor cillum do. In officia ullamco laborum ullamco voluptate. Laboris sunt quis enim Lorem laboris aliquip duis non magna excepteur voluptate. Pariatur velit aliquip officia nulla anim reprehenderit deserunt. Sint nostrud ipsum do aliquip.'
+      name: 'Pixel Power-Up Pizza',
+      link: '#',
+      description: 'A delicious 12-inch pizza with your choice of toppings. Perfect for sharing between battles.'
     },
     {
-      name: 'ToDo App',
-      link: 'https://theuselessweb.com/',
-      description: 'Esse magna anim incididunt enim sint aute consectetur ipsum id nostrud eu do. Pariatur et anim enim aliquip anim. Laboris labore incididunt labore enim nisi elit excepteur deserunt irure exercitation exercitation. Lorem sit ad laborum sit velit veniam sit nisi nostrud occaecat duis nulla duis.'
+      name: 'Joystick Jerky',
+      link: '#',
+      description: 'Spicy beef jerky to fuel your high-score attempts.'
     },
     {
-      name: 'A Mobile Game',
-      link: 'https://theuselessweb.com/',
-      description: 'Incididunt non cupidatat deserunt ut commodo qui non do Lorem. Qui aute minim enim sit magna est consectetur incididunt. Ex est cupidatat tempor pariatur deserunt labore tempor minim laboris magna ipsum minim ea ea. Consectetur do anim laboris nulla nisi veniam sint qui.'
+      name: 'Health Potion Lager',
+      link: '#',
+      description: 'Our signature craft beer. A crisp and refreshing lager to quench your thirst.'
     }
   ],
   hobbies: [
     {
-      name: 'Rock Climbing',
-      description: 'Occaecat ipsum dolor ea ad ut irure do proident excepteur consectetur duis eu culpa velit.'
+      name: 'High-Score Thursdays',
+      description: 'Compete for the top spot on our classic games. Prizes for the highest scores!'
     },
     {
-      name: 'Surfing',
-      description: 'Laboris occaecat adipisicing culpa duis aute ea excepteur quis eiusmod mollit est pariatur.'
+      name: '8-Bit Trivia Night',
+      description: 'Test your retro gaming knowledge every first Friday of the month.'
     },
     {
-      name: 'Rubick\'s Cube',
-      description: 'Laborum pariatur sint labore officia enim occaecat id.'
+      name: 'Pixel-Perfect Cosplay Party',
+      description: 'Join us for our annual cosplay event. Dress as your favorite video game character!'
     }
   ],
   contacts: {
-    email: 'john.doe@gmail.com',
-    mobileNo: '+639171234567',
-    phoneNo: '+12 345 6789',
+    email: 'contact@pixelpalace.com',
+    mobileNo: '+1 (555) 123-4567',
+    phoneNo: '',
     links: [
       {
-        name: 'GitHub',
-        link: 'https://github.com/jofftiquez'
+        name: 'Instagram',
+        link: '#'
       },
       {
         name: 'Facebook',
-        link: 'https://facebook.com/jofftiquez'
+        link: '#'
       },
       {
         name: 'Twitter',
-        link: 'https://twitter.com/jrtiquez'
+        link: '#'
       }
     ]
   }
