@@ -548,9 +548,17 @@ body {
     font-weight: 700;
     backdrop-filter: blur(75px);
     text-align: center;
-    padding-top: 1.3rem;
-    padding-bottom: 1.3rem;
+    padding: 2rem 1.3rem;
 }
+
+.footer p {
+    margin-bottom: 1rem;
+}
+
+.footer p:last-child {
+    margin-bottom: 0;
+}
+
 .footer__link{
     color: #64fcd9;
 }

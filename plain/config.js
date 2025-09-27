@@ -1,68 +1,52 @@
 window.PorfolioConfig = {
-  name: 'John Doe',
-  jobTitle: 'Full-stack Web Developer',
-  jobDescription: 'Sit quis in tempor quis. Nisi ex exercitation in irure. Reprehenderit sint aliqua et dolore enim laboris dolore exercitation magna aliqua ex ad.',
+  name: 'Jane Smith',
+  jobTitle: 'Business Consultant',
+  jobDescription: 'Helping businesses grow and thrive through strategic planning and market analysis.',
   skills: [
     {
-      name: 'JavaScript',
-      description: 'Reprehenderit mollit id ad veniam.'
+      name: 'Business Strategy',
+      description: 'Developing roadmaps for sustainable growth and long-term success.'
     },
     {
-      name: 'HTML',
-      description: 'Fugiat veniam esse consequat quis cillum elit consequat Lorem pariatur ipsum veniam irure incididunt non.'
+      name: 'Market Analysis',
+      description: 'Identifying market trends, opportunities, and competitive advantages.'
     },
     {
-      name: 'CSS',
-      description: 'Elit tempor mollit consectetur laborum nostrud qui in.'
+      name: 'Operational Efficiency',
+      description: 'Streamlining processes to improve productivity and reduce costs.'
     }
   ],
   works: [
     {
-      name: 'Vue Stripe Checkout',
-      link: 'https://jofftiquez.github.io/vue-stripe-checkout',
-      description: 'Mollit dolor tempor adipisicing non pariatur in tempor cillum do. In officia ullamco laborum ullamco voluptate. Laboris sunt quis enim Lorem laboris aliquip duis non magna excepteur voluptate. Pariatur velit aliquip officia nulla anim reprehenderit deserunt. Sint nostrud ipsum do aliquip.'
+      name: '"Jane\'s insights were invaluable..."',
+      link: '#',
+      description: 'Her strategic plan helped us navigate a complex market and achieve our growth targets. - CEO of TechCorp'
     },
     {
-      name: 'ToDo App',
-      link: 'https://theuselessweb.com/',
-      description: 'Esse magna anim incididunt enim sint aute consectetur ipsum id nostrud eu do. Pariatur et anim enim aliquip anim. Laboris labore incididunt labore enim nisi elit excepteur deserunt irure exercitation exercitation. Lorem sit ad laborum sit velit veniam sit nisi nostrud occaecat duis nulla duis.'
+      name: '"Our profits have doubled..."',
+      link: '#',
+      description: 'Thanks to Jane\'s expertise in operational efficiency, our profits have doubled in just one year. - Founder of Innovate LLC'
     },
     {
-      name: 'A Mobile Game',
-      link: 'https://theuselessweb.com/',
-      description: 'Incididunt non cupidatat deserunt ut commodo qui non do Lorem. Qui aute minim enim sit magna est consectetur incididunt. Ex est cupidatat tempor pariatur deserunt labore tempor minim laboris magna ipsum minim ea ea. Consectetur do anim laboris nulla nisi veniam sint qui.'
+      name: '"A true professional..."',
+      link: '#',
+      description: 'Jane is a true professional who is dedicated to her clients\' success. We highly recommend her. - Manager at Growth Solutions'
     }
   ],
   hobbies: [
     {
-      name: 'Rock Climbing',
-      description: 'Occaecat ipsum dolor ea ad ut irure do proident excepteur consectetur duis eu culpa velit.'
-    },
-    {
-      name: 'Surfing',
-      description: 'Laboris occaecat adipisicing culpa duis aute ea excepteur quis eiusmod mollit est pariatur.'
-    },
-    {
-      name: 'Rubick\'s Cube',
-      description: 'Laborum pariatur sint labore officia enim occaecat id.'
+      name: 'About Me',
+      description: 'With over 15 years of experience in the industry, I have a passion for helping businesses unlock their full potential. My approach is data-driven and results-oriented, and I am committed to delivering measurable value to my clients.'
     }
   ],
   contacts: {
-    email: 'john.doe@gmail.com',
-    mobileNo: '+639171234567',
-    phoneNo: '+12 345 6789',
+    email: 'jane.smith@consultant.com',
+    mobileNo: '+1 (555) 789-1234',
+    phoneNo: '',
     links: [
       {
-        name: 'GitHub',
-        link: 'https://github.com/jofftiquez'
-      },
-      {
-        name: 'Facebook',
-        link: 'https://facebook.com/jofftiquez'
-      },
-      {
-        name: 'Twitter',
-        link: 'https://twitter.com/jrtiquez'
+        name: 'LinkedIn',
+        link: '#'
       }
     ]
   }
